@@ -21,3 +21,5 @@ Postal Code
 The data is then manipulated and observed using MySQL and visualized in Power BI.
 
 ![Dashboard](dashboard.png)
+
+![data](data.png)
